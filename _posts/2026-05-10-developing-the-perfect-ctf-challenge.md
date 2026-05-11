@@ -121,7 +121,7 @@ But ya my point is a good reverse challenge isn't exactly hard to make its more 
 
 Ultimately I do recommend learning a bit about it and seeing how it clocks with you. The challenges are hard to make but more so harder to make difficult yet fun.
 
-I would recommend looking up pwn college since they have overall excellent resources on learning this. <a href="pwn.college">pwn.college</a>
+I would recommend looking up pwn college since they have overall excellent resources on learning this. <a href="https://pwn.college/">https://pwn.college/</a>
 
 ### Game Hacking
 This category is oddly similar to Reverse Engineering. It is mostly trying to figure out why a game is doing what it is doing and finding a way to exploit the logic in the code. 

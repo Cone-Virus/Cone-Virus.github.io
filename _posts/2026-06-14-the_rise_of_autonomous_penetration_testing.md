@@ -33,6 +33,7 @@ One really interesting case and company to mention is the programming language `
 So it is impossible to answer whether AI or tried and true engineers are superior. Evidence as of late has suggested that engineers without AI perform better and that AI leads to more people pushing to prod without testing code. But on the flip side this has always been an issue without AI so I struggle to side with either extreme. This section is more of a food for thought since this divide will become more polarized as time passes.
 
 ZIG Website: <a href="https://ziglang.org/">https://ziglang.org/</a><br>
+
 ZIG Founder Interview: <a href="https://www.youtube.com/watch?v=iqddnwKF8HQ">https://www.youtube.com/watch?v=iqddnwKF8HQ</a>
 
 
